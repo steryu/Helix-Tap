@@ -9,7 +9,7 @@ The middle title screen button enables obstacles. Enabling this option will gran
 Only downloadable for Windows or Android on my Itch.io page
 
 <p float="left">
-  <img src="https://github.com/steryu/Helix-Tap/blob/main/helix_tap1.png" width="265" />
-  <img src="https://github.com/steryu/Helix-Tap/blob/main/helix_tap3.png" width="266" /> 
-  <img src="https://github.com/steryu/Helix-Tap/blob/main/helix_tap2.png" width="265" />
+  <img src="https://github.com/steryu/Helix-Tap/blob/main/helix_tap1.png" width="270" />
+  <img src="https://github.com/steryu/Helix-Tap/blob/main/helix_tap3.png" width="273" /> 
+  <img src="https://github.com/steryu/Helix-Tap/blob/main/helix_tap2.png" width="270" />
 </p>
