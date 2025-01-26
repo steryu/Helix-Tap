@@ -7,3 +7,9 @@ Collect coins to up the score or powerful Gomu fruit to pass every ring and go 
 The middle title screen button enables obstacles. Enabling this option will grant you higher points when passing through rings, but you need to swipe left or right to dodge the solid fruit parts.
 
 Only downloadable for Windows or Android on my Itch.io page
+
+<p float="left">
+  <img src="https://github.com/steryu/Helix-Tap/blob/main/helix_tap1.png" width="300" />
+  <img src="https://github.com/steryu/Helix-Tap/blob/main/helix_tap3.png" width="303" /> 
+  <img src="https://github.com/steryu/Helix-Tap/blob/main/helix_tap2.png" width="300" />
+</p>
